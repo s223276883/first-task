@@ -1,0 +1,19 @@
+/* 1p.css */
+/* External CSS */
+h1 {
+    color: #f2f2ff;
+    text-align: center;
+    margin-top: 10px;
+}
+
+input[type="submit"] {
+    background-color: #007bff;
+    color: #555;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #0056b3;
+}
